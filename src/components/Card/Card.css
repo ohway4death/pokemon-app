@@ -1,5 +1,6 @@
 .card {
     width: 290px;
+    height: 320px;
     border-radius: 5px;
     -moz-box-shadow: 16px 20px 13px 3px rgba(0, 0, 0, 0.8);
     -webkit-box-shadow: 16px 20px 13px 3px rgba(0, 0, 0, 0.8);
